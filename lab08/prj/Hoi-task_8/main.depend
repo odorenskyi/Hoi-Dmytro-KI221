@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1677149144 source:c:\users\הלטענמ\desktop\ÁÌÒÏ\bmtp-lab8-Ãמי\prj\hoi-task_8\main.cpp
+	<Windows.h>
+	<iostream>
+	<stack>
+	"..\Modules\ModulesHoi.h"
+
+1677084923 c:\users\הלטענמ\desktop\ÁÌÒÏ\bmtp-lab8-Ãמי\prj\modules\moduleshoi.h
+
