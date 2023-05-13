@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1683973544 source:d:\git bmtp\hoi-dmytro-ki221\lab09\prj\hoi_task\hoi_task.cpp
+	<iostream>
+	<windows.h>
+	"..\..\..\lab08\prj\Modules\ModulesHoi.h"
+
+1683142848 d:\git bmtp\hoi-dmytro-ki221\lab08\prj\modules\moduleshoi.h
+	<string>
+

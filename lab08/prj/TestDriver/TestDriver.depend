@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1683182663 source:d:\git bmtp\hoi-dmytro-ki221\lab08\prj\testdriver\testdriver.cpp
+	<iostream>
+	<string>
+	<windows.h>
+	"..\Modules\ModulesHoi.h"
+
+1683142848 d:\git bmtp\hoi-dmytro-ki221\lab08\prj\modules\moduleshoi.h
+	<string>
+
