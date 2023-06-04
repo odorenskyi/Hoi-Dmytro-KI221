@@ -8,8 +8,11 @@
 	<cmath>
 	<string>
 
-1683141730 source:d:\git bmtp\hoi-dmytro-ki221\lab08\prj\modules\moduleshoi.cpp
+1685797099 source:d:\git bmtp\hoi-dmytro-ki221\lab08\prj\modules\moduleshoi.cpp
 	<iostream>
 	<cmath>
 	<string>
+	<fstream>
+	<windows.h>
+	<ctime>
 
