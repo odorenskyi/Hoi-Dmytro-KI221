@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1686747764 source:d:\git bmtp\hoi-dmytro-ki221\lab12\prj\teacher\teacher.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<sstream>
+	<windows.h>
+	"..\ModulesHoi.h"
+
+1686747873 d:\git bmtp\hoi-dmytro-ki221\lab12\prj\moduleshoi.h
+
